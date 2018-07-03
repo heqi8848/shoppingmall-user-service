@@ -26,6 +26,8 @@ persistence-server:
 workload: 2000
 
 mysql:
-  host: 10.119.50.185
+  host: 49.4.10.131
+  db: ShoppingMallDB
+  port: 13306
   user: apm
   pass: paasapm
